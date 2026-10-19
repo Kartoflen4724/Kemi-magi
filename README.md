@@ -1,11 +1,4 @@
 # Kemi-magi
 Alle Random Kemi Scripts
-
-For at det virker:
-    Download:
-        Jupyter(VsCode extention)
-    pip installs:
-        sympy(python3 -m pip install sympy)
-        pyromat(python3 -m pip install pyromat)
-        numpy(python3 -m pip install numpy)
-        matplotlib(python3 -m pip install matplotlib)
+Brug Install guide.ipynb for at få downloadet alt der nu skal bruges
+For at åbne den skal du have Jupyter installeret i VS Code, men det tænker jeg alle har.
